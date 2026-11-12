@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fold AI asset pack manifest",
+  "type": "object",
+  "required": ["schema", "id", "assets"],
+  "properties": {
+    "schema": {"enum": ["fold-asset-pack/1", "fold-quality-pack/2"]},
+    "id": {"type": "string"},
+    "version": {"type": ["string", "integer"]},
+    "assets": {"type": "array", "items": {
+      "type": "object",
+      "required": ["id", "file", "labelEn", "keys"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9_]{1,80}$"},
+        "kind": {"enum": ["image", "model", "lottie"]},
+        "file": {"type": "string"},
+        "depth": {"type": "string"},
+        "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "labelEn": {"type": "string"}, "labelHi": {"type": "string"},
+        "keys": {"type": "array", "items": {"type": "string"}},
+        "negativeTags": {"type": "array", "items": {"type": "string"}},
+        "generic": {"type": "boolean"},
+        "medicalReview": {"enum": ["NOT_REVIEWED", "REVIEWED", "DISPUTED"]},
+        "license": {"type": "string"},
+        "source": {"type": "object"}
+      }
+    }}
+  }
+}

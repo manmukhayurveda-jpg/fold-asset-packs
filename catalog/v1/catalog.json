@@ -1,0 +1,22 @@
+{
+  "schema": "fold-pack-catalog/1",
+  "published": "2026-11-12T13:00:00Z",
+  "packs": [
+    {
+      "id": "ma_visuals",
+      "version": "1",
+      "title": "Medical visuals (Manmukh Ayurveda library)",
+      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/ma-visuals-v1/ma_visuals_v1.zip",
+      "bytes": 16578803,
+      "sha256": "a46ccf7b10c72448fa6be9e896107a1c7174e29b480c449aba954eb41bb9490e",
+      "fileCount": 271,
+      "expectedUncompressedBytes": 16543547,
+      "capabilities": ["RELIEF_IMAGE", "T2V_SCENE_ASSET"],
+      "minRenderContract": 1,
+      "languages": ["en", "hi"],
+      "license": "PROPRIETARY_MANMUKH",
+      "medicalReview": "NOT_REVIEWED",
+      "provenance": "shopify:ma_svg_asset (135 of 180 entries)"
+    }
+  ]
+}

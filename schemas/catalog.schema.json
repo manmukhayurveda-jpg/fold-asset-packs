@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fold AI pack catalog v1",
+  "type": "object",
+  "required": ["schema", "packs"],
+  "properties": {
+    "schema": {"const": "fold-pack-catalog/1"},
+    "published": {"type": "string", "format": "date-time"},
+    "packs": {"type": "array", "items": {
+      "type": "object",
+      "required": ["id", "version", "url", "bytes", "sha256"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9_]{1,40}$"},
+        "version": {"type": "string", "pattern": "^[A-Za-z0-9._-]{1,40}$"},
+        "title": {"type": "string"},
+        "url": {"type": "string", "pattern": "^https://"},
+        "bytes": {"type": "integer", "minimum": 1},
+        "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "fileCount": {"type": "integer"},
+        "expectedUncompressedBytes": {"type": "integer"},
+        "capabilities": {"type": "array", "items": {"enum": ["RELIEF_IMAGE", "T2V_SCENE_ASSET", "I2V_SUPPORT_ASSET", "LOTTIE_MOTION", "GLTF_MODEL", "STYLE_TOKENS"]}},
+        "minRenderContract": {"type": "integer", "minimum": 1},
+        "languages": {"type": "array", "items": {"type": "string"}},
+        "license": {"type": "string"},
+        "medicalReview": {"enum": ["NOT_REVIEWED", "REVIEWED", "DISPUTED"]},
+        "provenance": {"type": "string"},
+        "expires": {"type": "string", "format": "date-time"},
+        "revoked": {"type": "boolean"}
+      }
+    }}
+  }
+}

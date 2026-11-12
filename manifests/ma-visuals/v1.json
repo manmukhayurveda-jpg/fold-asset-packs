@@ -1,0 +1,2931 @@
+{
+ "schema": "fold-asset-pack/1",
+ "id": "ma_visuals",
+ "version": 1,
+ "title": "Manmukh Ayurveda medical visuals",
+ "count": 135,
+ "note": "Illustrations from the store's MA Visual Asset Library. Shown as illustrations, not medically reviewed anatomy.",
+ "assets": [
+  {
+   "id": "ma_clinic",
+   "kind": "image",
+   "file": "images/ma_clinic.webp",
+   "depth": "depth/ma_clinic.png",
+   "labelEn": "Clinic",
+   "labelHi": "",
+   "keys": [
+    "clinic"
+   ],
+   "category": "Doctor",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "clinic",
+    "canonicalKey": "clinic"
+   },
+   "sha256": "f6302382f6bb366494a3567798c45391f72b7a172f9588365728c09c530e562a"
+  },
+  {
+   "id": "ma_customer_support",
+   "kind": "image",
+   "file": "images/ma_customer_support.webp",
+   "depth": "depth/ma_customer_support.png",
+   "labelEn": "Customer support",
+   "labelHi": "",
+   "keys": [
+    "customer support"
+   ],
+   "category": "Consultation",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "customer-support",
+    "canonicalKey": "customer-support"
+   },
+   "sha256": "66ff4ae0d496d83fa684cce63d12cdc627dc6cd7da1234fd186c182b805ee96e"
+  },
+  {
+   "id": "ma_ecg",
+   "kind": "image",
+   "file": "images/ma_ecg.webp",
+   "depth": "depth/ma_ecg.png",
+   "labelEn": "Electrocardiogram",
+   "labelHi": "ईसीजी",
+   "keys": [
+    "electrocardiogram",
+    "ecg",
+    "ईसीजी"
+   ],
+   "category": "Laboratory",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "ecg",
+    "canonicalKey": "ecg"
+   },
+   "sha256": "9925810eb3d642e13a25ad544875f7a00e37667ccb0f38825ae65c6bb3231243"
+  },
+  {
+   "id": "ma_heart",
+   "kind": "image",
+   "file": "images/ma_heart.webp",
+   "depth": "depth/ma_heart.png",
+   "labelEn": "Heart",
+   "labelHi": "हृदय",
+   "keys": [
+    "heart",
+    "हृदय",
+    "दिल"
+   ],
+   "category": "Conditions",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "heart",
+    "canonicalKey": "heart"
+   },
+   "sha256": "f74f9dc6091063af08587deff6f3e6666e0f884f7dcb42408237e6e138c5f6a9"
+  },
+  {
+   "id": "ma_blood_test",
+   "kind": "image",
+   "file": "images/ma_blood_test.webp",
+   "depth": "depth/ma_blood_test.png",
+   "labelEn": "Blood test",
+   "labelHi": "ब्लड टेस्ट",
+   "keys": [
+    "blood test",
+    "ब्लड टेस्ट",
+    "खून की जांच"
+   ],
+   "category": "Laboratory",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "blood-test",
+    "canonicalKey": "blood-test"
+   },
+   "sha256": "9fd840da75be8bed998a0cb7c99ea1b165375b4b29760895bbcb056f69330e12"
+  },
+  {
+   "id": "ma_lab_report",
+   "kind": "image",
+   "file": "images/ma_lab_report.webp",
+   "depth": "depth/ma_lab_report.png",
+   "labelEn": "Laboratory report",
+   "labelHi": "",
+   "keys": [
+    "laboratory report",
+    "lab report"
+   ],
+   "category": "Laboratory",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "lab-report",
+    "canonicalKey": "lab-report"
+   },
+   "sha256": "6cf3d346c93d55dda7ac4c9d70c830f44d426974629d8caf7f64ce32e509b130"
+  },
+  {
+   "id": "ma_medical_record",
+   "kind": "image",
+   "file": "images/ma_medical_record.webp",
+   "depth": "depth/ma_medical_record.png",
+   "labelEn": "Medical record",
+   "labelHi": "",
+   "keys": [
+    "medical record"
+   ],
+   "category": "Laboratory",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "medical-record",
+    "canonicalKey": "medical-record"
+   },
+   "sha256": "eac536fb3c8a819d955e33542a612bd95965af4f424bddc81052d1ef466829d8"
+  },
+  {
+   "id": "ma_video_consultation",
+   "kind": "image",
+   "file": "images/ma_video_consultation.webp",
+   "depth": "depth/ma_video_consultation.png",
+   "labelEn": "Doctor conducting a secure video consultation",
+   "labelHi": "",
+   "keys": [
+    "video consultation",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Consultation",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "video-consultation",
+    "canonicalKey": "video-consultation"
+   },
+   "sha256": "3811936e6dee6d3ee3bead85958a8d7c9a259d0317d950b919421283cad9ce0f"
+  },
+  {
+   "id": "ma_female_doctor",
+   "kind": "image",
+   "file": "images/ma_female_doctor.webp",
+   "depth": "depth/ma_female_doctor.png",
+   "labelEn": "Female doctor",
+   "labelHi": "",
+   "keys": [
+    "female doctor"
+   ],
+   "category": "Doctor",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "female-doctor",
+    "canonicalKey": "female-doctor"
+   },
+   "sha256": "d82168450471b032448c7c6f37026152d50cf6f8161387073a787a9ab02ff5ed"
+  },
+  {
+   "id": "ma_sleep_disorder",
+   "kind": "image",
+   "file": "images/ma_sleep_disorder.webp",
+   "depth": "depth/ma_sleep_disorder.png",
+   "labelEn": "Sleep Disorder",
+   "labelHi": "नींद",
+   "keys": [
+    "sleep disorder",
+    "नींद",
+    "अनिद्रा"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "sleep-disorder",
+    "canonicalKey": "sleep-disorder"
+   },
+   "sha256": "2d1c26afaeb508e79a13a483385354ce35ea12b03d25f1b878485143329c6be0"
+  },
+  {
+   "id": "ma_low_libido",
+   "kind": "image",
+   "file": "images/ma_low_libido.webp",
+   "depth": "depth/ma_low_libido.png",
+   "labelEn": "Low Libido",
+   "labelHi": "",
+   "keys": [
+    "low libido"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "low-libido",
+    "canonicalKey": "low-libido"
+   },
+   "sha256": "afb3ea126dd2b3f30dc8dc4aed5667aaa2b8a804401128b262c8df57e3672605"
+  },
+  {
+   "id": "ma_premature_ejaculation",
+   "kind": "image",
+   "file": "images/ma_premature_ejaculation.webp",
+   "depth": "depth/ma_premature_ejaculation.png",
+   "labelEn": "Premature Ejaculation",
+   "labelHi": "",
+   "keys": [
+    "premature ejaculation"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "premature-ejaculation",
+    "canonicalKey": "premature-ejaculation"
+   },
+   "sha256": "b8d7bf16ce796383cf993313863a4f6b0535cba5496fde8fd2d792d7b00cf60b"
+  },
+  {
+   "id": "ma_hypothyroidism",
+   "kind": "image",
+   "file": "images/ma_hypothyroidism.webp",
+   "depth": "depth/ma_hypothyroidism.png",
+   "labelEn": "Hypothyroidism",
+   "labelHi": "हाइपोथायराइड",
+   "keys": [
+    "hypothyroidism",
+    "हाइपोथायराइड"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hypothyroidism",
+    "canonicalKey": "hypothyroidism"
+   },
+   "sha256": "8965b50bb18f6c678d4ef0d8291d66d529d8bfc1d8830b4000e8d6709840c84e"
+  },
+  {
+   "id": "ma_high_blood_pressure",
+   "kind": "image",
+   "file": "images/ma_high_blood_pressure.webp",
+   "depth": "depth/ma_high_blood_pressure.png",
+   "labelEn": "High Blood Pressure",
+   "labelHi": "हाई ब्लड प्रेशर",
+   "keys": [
+    "high blood pressure",
+    "हाई ब्लड प्रेशर",
+    "उच्च रक्तचाप"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "high-blood-pressure",
+    "canonicalKey": "high-blood-pressure"
+   },
+   "sha256": "dc5d51f146f74df98103c9440c492a537e818dbeb2c6eaa3efb0e8e39ac1b41b"
+  },
+  {
+   "id": "ma_migraine_male",
+   "kind": "image",
+   "file": "images/ma_migraine_male.webp",
+   "depth": "depth/ma_migraine_male.png",
+   "labelEn": "Migraine",
+   "labelHi": "",
+   "keys": [
+    "migraine",
+    "migraine male",
+    "migraine — male visual"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "migraine-male",
+    "canonicalKey": "migraine-male"
+   },
+   "sha256": "3f338362b9c98b1cb713e87c3c7f1321ecfe082b6bea5f329bf0a10f54465550"
+  },
+  {
+   "id": "ma_hpv",
+   "kind": "image",
+   "file": "images/ma_hpv.webp",
+   "depth": "depth/ma_hpv.png",
+   "labelEn": "HPV",
+   "labelHi": "एचपीवी",
+   "keys": [
+    "hpv",
+    "एचपीवी"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hpv",
+    "canonicalKey": "hpv"
+   },
+   "sha256": "2021c58642d668241d06e5abfd8dd0729235bbd3dcf396f5a39a7af22cc8e938"
+  },
+  {
+   "id": "ma_acne_adolescent",
+   "kind": "image",
+   "file": "images/ma_acne_adolescent.webp",
+   "depth": "depth/ma_acne_adolescent.png",
+   "labelEn": "Adolescent Acne",
+   "labelHi": "",
+   "keys": [
+    "adolescent acne",
+    "acne adolescent"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "acne-adolescent",
+    "canonicalKey": "acne-adolescent"
+   },
+   "sha256": "f29ba4da184940bec52a2a563fc63b063563b38d877349389cafad52fd97b7e9"
+  },
+  {
+   "id": "ma_syphilis",
+   "kind": "image",
+   "file": "images/ma_syphilis.webp",
+   "depth": "depth/ma_syphilis.png",
+   "labelEn": "Syphilis",
+   "labelHi": "सिफलिस",
+   "keys": [
+    "syphilis",
+    "सिफलिस",
+    "उपदंश"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "syphilis",
+    "canonicalKey": "syphilis"
+   },
+   "sha256": "5f220739c32196430ffa926a81203374c74524129861d9ed7b03f2f3a2dd8d9f"
+  },
+  {
+   "id": "ma_atopic_dermatitis",
+   "kind": "image",
+   "file": "images/ma_atopic_dermatitis.webp",
+   "depth": "depth/ma_atopic_dermatitis.png",
+   "labelEn": "Atopic Dermatitis",
+   "labelHi": "",
+   "keys": [
+    "atopic dermatitis"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "atopic-dermatitis",
+    "canonicalKey": "atopic-dermatitis"
+   },
+   "sha256": "4ae6bcb938253aeaa4f5eafbc050aa7e7ee0a2b0f6a19df73d7c915cbe2b4c95"
+  },
+  {
+   "id": "ma_osteoporosis",
+   "kind": "image",
+   "file": "images/ma_osteoporosis.webp",
+   "depth": "depth/ma_osteoporosis.png",
+   "labelEn": "Osteoporosis",
+   "labelHi": "हड्डियों की कमजोरी",
+   "keys": [
+    "osteoporosis",
+    "हड्डियों की कमजोरी"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "osteoporosis",
+    "canonicalKey": "osteoporosis"
+   },
+   "sha256": "b1cd15f95333c24fb940993e54d5f280c8f924b24c4aa15b0d1f9152fa956f42"
+  },
+  {
+   "id": "ma_erectile_dysfunction",
+   "kind": "image",
+   "file": "images/ma_erectile_dysfunction.webp",
+   "depth": "depth/ma_erectile_dysfunction.png",
+   "labelEn": "Erectile Dysfunction",
+   "labelHi": "नपुंसकता",
+   "keys": [
+    "erectile dysfunction",
+    "नपुंसकता"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "erectile-dysfunction",
+    "canonicalKey": "erectile-dysfunction"
+   },
+   "sha256": "681ed797504cd787fe36a25c5426868c46a42a9c591a64f291f75644305fcfce"
+  },
+  {
+   "id": "ma_spondylitis",
+   "kind": "image",
+   "file": "images/ma_spondylitis.webp",
+   "depth": "depth/ma_spondylitis.png",
+   "labelEn": "Spondylitis",
+   "labelHi": "",
+   "keys": [
+    "spondylitis"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "spondylitis",
+    "canonicalKey": "spondylitis"
+   },
+   "sha256": "edcf1be3a51c43d7329ff7e7ee44f042ea8912d90467720ced3171291d796322"
+  },
+  {
+   "id": "ma_long_term_wellness",
+   "kind": "image",
+   "file": "images/ma_long_term_wellness.webp",
+   "depth": "depth/ma_long_term_wellness.png",
+   "labelEn": "Long-Term Wellness",
+   "labelHi": "",
+   "keys": [
+    "long-term wellness",
+    "long term wellness",
+    "trust visual"
+   ],
+   "category": "Wellness",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "long-term-wellness",
+    "canonicalKey": "long-term-wellness"
+   },
+   "sha256": "9392f41031fabdc31dab81994385898d1165871b344908d981763cab553db489"
+  },
+  {
+   "id": "ma_lumbar_disc_nerve_compression",
+   "kind": "image",
+   "file": "images/ma_lumbar_disc_nerve_compression.webp",
+   "depth": "depth/ma_lumbar_disc_nerve_compression.png",
+   "labelEn": "Lumbar Disc Nerve Compression",
+   "labelHi": "",
+   "keys": [
+    "lumbar disc nerve compression"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "lumbar-disc-nerve-compression",
+    "canonicalKey": "lumbar-disc-nerve-compression"
+   },
+   "sha256": "f1505132a0e6137dae491fc1b6b8efc8d3e35de576cb1f54421d71be6edb67f0"
+  },
+  {
+   "id": "ma_infertility",
+   "kind": "image",
+   "file": "images/ma_infertility.webp",
+   "depth": "depth/ma_infertility.png",
+   "labelEn": "Infertility",
+   "labelHi": "बांझपन",
+   "keys": [
+    "infertility",
+    "बांझपन"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "infertility",
+    "canonicalKey": "infertility"
+   },
+   "sha256": "ef0ab43e96102f16f9705456dbba8a0e20aa91e3cc8dba3136395fbd9e401e67"
+  },
+  {
+   "id": "ma_consultation",
+   "kind": "image",
+   "file": "images/ma_consultation.webp",
+   "depth": "depth/ma_consultation.png",
+   "labelEn": "Doctor Consultation",
+   "labelHi": "परामर्श",
+   "keys": [
+    "doctor consultation",
+    "service visual",
+    "परामर्श"
+   ],
+   "category": "Consultation",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "consultation",
+    "canonicalKey": "consultation"
+   },
+   "sha256": "7f460e6fea6d993a032c5749064652893f1f1667437ab9f60c485c134d4e5233"
+  },
+  {
+   "id": "ma_gout",
+   "kind": "image",
+   "file": "images/ma_gout.webp",
+   "depth": "depth/ma_gout.png",
+   "labelEn": "Gout",
+   "labelHi": "गाउट",
+   "keys": [
+    "gout",
+    "गाउट",
+    "यूरिक एसिड"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "gout",
+    "canonicalKey": "gout"
+   },
+   "sha256": "7b9f35355d126b041e3cba74422625145aec3cce7d1ef6c6c27ae349d7ce2750"
+  },
+  {
+   "id": "ma_ayurveda_herbal_care",
+   "kind": "image",
+   "file": "images/ma_ayurveda_herbal_care.webp",
+   "depth": "depth/ma_ayurveda_herbal_care.png",
+   "labelEn": "Ayurveda / Herbal Care",
+   "labelHi": "",
+   "keys": [
+    "herbal care",
+    "ayurveda herbal care",
+    "ayurveda / herbal care"
+   ],
+   "category": "Ayurveda",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "ayurveda-herbal-care",
+    "canonicalKey": "ayurveda-herbal-care"
+   },
+   "sha256": "7e19592339e71cb04565be3e43c67d01aa7dd01a820c6d61a0dc928d2b8ee527"
+  },
+  {
+   "id": "ma_kidney_stone",
+   "kind": "image",
+   "file": "images/ma_kidney_stone.webp",
+   "depth": "depth/ma_kidney_stone.png",
+   "labelEn": "Kidney Stone",
+   "labelHi": "पथरी",
+   "keys": [
+    "kidney stone",
+    "पथरी",
+    "किडनी स्टोन"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "kidney-stone",
+    "canonicalKey": "kidney-stone"
+   },
+   "sha256": "456c5253b441a7721e048dccacc48dfe15514abad2195db5c752bb63d33171e9"
+  },
+  {
+   "id": "ma_weight_gain_metabolism",
+   "kind": "image",
+   "file": "images/ma_weight_gain_metabolism.webp",
+   "depth": "depth/ma_weight_gain_metabolism.png",
+   "labelEn": "Weight Gain and Metabolism",
+   "labelHi": "",
+   "keys": [
+    "weight gain and metabolism",
+    "weight gain metabolism"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "weight-gain-metabolism",
+    "canonicalKey": "weight-gain-metabolism"
+   },
+   "sha256": "05620e82954ddf3e5c223b74eb4fff755d330bac80bb781a0c9c9bd392d60acf"
+  },
+  {
+   "id": "ma_fatty_liver",
+   "kind": "image",
+   "file": "images/ma_fatty_liver.webp",
+   "depth": "depth/ma_fatty_liver.png",
+   "labelEn": "Fatty Liver",
+   "labelHi": "फैटी लिवर",
+   "keys": [
+    "fatty liver",
+    "फैटी लिवर"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "fatty-liver",
+    "canonicalKey": "fatty-liver"
+   },
+   "sha256": "59f99898a87aba1fab32aba33f5e460fa3f12ed40ad3e402101544311c665252"
+  },
+  {
+   "id": "ma_asthma",
+   "kind": "image",
+   "file": "images/ma_asthma.webp",
+   "depth": "depth/ma_asthma.png",
+   "labelEn": "Asthma",
+   "labelHi": "अस्थमा",
+   "keys": [
+    "asthma",
+    "अस्थमा",
+    "दमा"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "asthma",
+    "canonicalKey": "asthma"
+   },
+   "sha256": "1c0418b7cdc45df57d62d29511b03ee1d45a9df4bae1a6d04603e8093b47133e"
+  },
+  {
+   "id": "ma_safed_musli",
+   "kind": "image",
+   "file": "images/ma_safed_musli.webp",
+   "depth": "depth/ma_safed_musli.png",
+   "labelEn": "Safed Musli",
+   "labelHi": "सफेद मूसली",
+   "keys": [
+    "safed musli",
+    "सफेद मूसली"
+   ],
+   "category": "Ayurvedic Herb",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "safed-musli",
+    "canonicalKey": "safed-musli"
+   },
+   "sha256": "71b216338d7130a66feaac749981e1e9c4a8e691198acf27a0b4f00c426127bb"
+  },
+  {
+   "id": "ma_osteoarthritis",
+   "kind": "image",
+   "file": "images/ma_osteoarthritis.webp",
+   "depth": "depth/ma_osteoarthritis.png",
+   "labelEn": "Osteoarthritis",
+   "labelHi": "ऑस्टियोआर्थराइटिस",
+   "keys": [
+    "osteoarthritis",
+    "ऑस्टियोआर्थराइटिस"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "osteoarthritis",
+    "canonicalKey": "osteoarthritis"
+   },
+   "sha256": "8f06faf4c3a5736d5c2dc4aa8e528d7bc7b773310820e1c3f5273000d05d3fc8"
+  },
+  {
+   "id": "ma_arthritis",
+   "kind": "image",
+   "file": "images/ma_arthritis.webp",
+   "depth": "depth/ma_arthritis.png",
+   "labelEn": "Arthritis",
+   "labelHi": "गठिया",
+   "keys": [
+    "arthritis",
+    "गठिया"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "arthritis",
+    "canonicalKey": "arthritis"
+   },
+   "sha256": "4d4573479af5d5feee643a6225c317982d78b8bcf40e9f9f98074ac6bee39777"
+  },
+  {
+   "id": "ma_copd",
+   "kind": "image",
+   "file": "images/ma_copd.webp",
+   "depth": "depth/ma_copd.png",
+   "labelEn": "COPD",
+   "labelHi": "सीओपीडी",
+   "keys": [
+    "copd",
+    "सीओपीडी"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "copd",
+    "canonicalKey": "copd"
+   },
+   "sha256": "5f26274f3679c3fba7340b0b5d314c7e3dbe99dc2df788081ee17b13e5fbaf79"
+  },
+  {
+   "id": "ma_mental_wellbeing",
+   "kind": "image",
+   "file": "images/ma_mental_wellbeing.webp",
+   "depth": "depth/ma_mental_wellbeing.png",
+   "labelEn": "Mental Wellbeing",
+   "labelHi": "मानसिक स्वास्थ्य",
+   "keys": [
+    "mental wellbeing",
+    "मानसिक स्वास्थ्य"
+   ],
+   "category": "Wellness",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "mental-wellbeing",
+    "canonicalKey": "mental-wellbeing"
+   },
+   "sha256": "84caf59d432a873a3f9291262eed8e6f1eff2d83a617039ba9595270d3e26b00"
+  },
+  {
+   "id": "ma_plantar_fasciitis",
+   "kind": "image",
+   "file": "images/ma_plantar_fasciitis.webp",
+   "depth": "depth/ma_plantar_fasciitis.png",
+   "labelEn": "Plantar Fasciitis",
+   "labelHi": "",
+   "keys": [
+    "plantar fasciitis"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "plantar-fasciitis",
+    "canonicalKey": "plantar-fasciitis"
+   },
+   "sha256": "ec312dc96fc18b970b46cb4cb3bee63dd717922a8b7b18915cabf7501951caaa"
+  },
+  {
+   "id": "ma_indigestion",
+   "kind": "image",
+   "file": "images/ma_indigestion.webp",
+   "depth": "depth/ma_indigestion.png",
+   "labelEn": "Indigestion",
+   "labelHi": "अपच",
+   "keys": [
+    "indigestion",
+    "अपच",
+    "गैस",
+    "एसिडिटी"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "indigestion",
+    "canonicalKey": "indigestion"
+   },
+   "sha256": "e5655254dafabf1326a8741859f5943a96ba7cd4ed2ee23fb8c80e1cf498f8f5"
+  },
+  {
+   "id": "ma_anemia",
+   "kind": "image",
+   "file": "images/ma_anemia.webp",
+   "depth": "depth/ma_anemia.png",
+   "labelEn": "Anemia",
+   "labelHi": "एनीमिया",
+   "keys": [
+    "anemia",
+    "एनीमिया",
+    "खून की कमी"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "anemia",
+    "canonicalKey": "anemia"
+   },
+   "sha256": "fb22525e89784282ca0455df8a577154a190b9a8a8ebac1a9feb6917f0fa1dcd"
+  },
+  {
+   "id": "ma_kidney_stone_care",
+   "kind": "image",
+   "file": "images/ma_kidney_stone_care.webp",
+   "depth": "depth/ma_kidney_stone_care.png",
+   "labelEn": "Kidney Stone Care",
+   "labelHi": "पथरी का इलाज",
+   "keys": [
+    "kidney stone care",
+    "पथरी का इलाज"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "kidney-stone-care",
+    "canonicalKey": "kidney-stone-care"
+   },
+   "sha256": "ebead0495ce96e4a70301a33956d61c05cbb5a4699bc9e7e1a2ba5fb36fed0ab"
+  },
+  {
+   "id": "ma_sciatica",
+   "kind": "image",
+   "file": "images/ma_sciatica.webp",
+   "depth": "depth/ma_sciatica.png",
+   "labelEn": "Sciatica",
+   "labelHi": "साइटिका",
+   "keys": [
+    "sciatica",
+    "साइटिका"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "sciatica",
+    "canonicalKey": "sciatica"
+   },
+   "sha256": "0f0f16eed75e8eec5d654d7ed72e3b5f13dda79993458736bac69290896c89a0"
+  },
+  {
+   "id": "ma_diet_nutrition",
+   "kind": "image",
+   "file": "images/ma_diet_nutrition.webp",
+   "depth": "depth/ma_diet_nutrition.png",
+   "labelEn": "Diet & Nutrition",
+   "labelHi": "आहार",
+   "keys": [
+    "diet & nutrition",
+    "diet nutrition",
+    "आहार",
+    "पोषण"
+   ],
+   "category": "Wellness",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "diet-nutrition",
+    "canonicalKey": "diet-nutrition"
+   },
+   "sha256": "030731866fb3343ff90b7dfb69c9f34f078a3ba23075584d3397a0128ebbad81"
+  },
+  {
+   "id": "ma_eczema",
+   "kind": "image",
+   "file": "images/ma_eczema.webp",
+   "depth": "depth/ma_eczema.png",
+   "labelEn": "Eczema",
+   "labelHi": "एक्जिमा",
+   "keys": [
+    "eczema",
+    "एक्जिमा"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "eczema",
+    "canonicalKey": "eczema"
+   },
+   "sha256": "14a803af2908f61e42b403d5792be49a63aa466d0ed242cc65ca252205cc352d"
+  },
+  {
+   "id": "ma_herpes",
+   "kind": "image",
+   "file": "images/ma_herpes.webp",
+   "depth": "depth/ma_herpes.png",
+   "labelEn": "Herpes",
+   "labelHi": "हर्पीस",
+   "keys": [
+    "herpes",
+    "हर्पीस"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "herpes",
+    "canonicalKey": "herpes"
+   },
+   "sha256": "c8de015c93fb3559a349ec3a36cc4dab89fb5ba7a2fd5497d9b32a3f9b4b5734"
+  },
+  {
+   "id": "ma_herbal_powder",
+   "kind": "image",
+   "file": "images/ma_herbal_powder.webp",
+   "depth": "depth/ma_herbal_powder.png",
+   "labelEn": "Herbal Powder",
+   "labelHi": "",
+   "keys": [
+    "herbal powder",
+    "ayurvedic product"
+   ],
+   "category": "Ayurvedic Product",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "herbal-powder",
+    "canonicalKey": "herbal-powder"
+   },
+   "sha256": "e50820f0ea622c98390997a714b2783bddf7a5526b10d888a8ccf561bc4a6a87"
+  },
+  {
+   "id": "ma_pcos",
+   "kind": "image",
+   "file": "images/ma_pcos.webp",
+   "depth": "depth/ma_pcos.png",
+   "labelEn": "PCOS",
+   "labelHi": "पीसीओएस",
+   "keys": [
+    "pcos",
+    "पीसीओएस"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "pcos",
+    "canonicalKey": "pcos"
+   },
+   "sha256": "447dbc44cdb4eb2c6b2767bbea152ebe83406e1ea53d95b7e72169475e1c9e10"
+  },
+  {
+   "id": "ma_weight_gain",
+   "kind": "image",
+   "file": "images/ma_weight_gain.webp",
+   "depth": "depth/ma_weight_gain.png",
+   "labelEn": "Weight Gain",
+   "labelHi": "वजन बढ़ना",
+   "keys": [
+    "weight gain",
+    "वजन बढ़ना"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "weight-gain",
+    "canonicalKey": "weight-gain"
+   },
+   "sha256": "a345faca0c80335dfb2faa82c39d3856be35d3a075358bbe597f7c452cb492e2"
+  },
+  {
+   "id": "ma_back_pain",
+   "kind": "image",
+   "file": "images/ma_back_pain.webp",
+   "depth": "depth/ma_back_pain.png",
+   "labelEn": "Back Pain",
+   "labelHi": "कमर दर्द",
+   "keys": [
+    "back pain",
+    "कमर दर्द",
+    "पीठ दर्द"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "back-pain",
+    "canonicalKey": "back-pain"
+   },
+   "sha256": "ddd2a4a1f0bdc474d934b8dfb0b4dfc701f7e06edfcbe87b742dabc012af568d"
+  },
+  {
+   "id": "ma_herbal_oil",
+   "kind": "image",
+   "file": "images/ma_herbal_oil.webp",
+   "depth": "depth/ma_herbal_oil.png",
+   "labelEn": "Herbal Oil",
+   "labelHi": "",
+   "keys": [
+    "herbal oil",
+    "ayurvedic product"
+   ],
+   "category": "Ayurvedic Product",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "herbal-oil",
+    "canonicalKey": "herbal-oil"
+   },
+   "sha256": "f327740a46a534a5c05d0638ec19666404a0916a98c6da3e6c57fea570c87a9e"
+  },
+  {
+   "id": "ma_hepatitis_b",
+   "kind": "image",
+   "file": "images/ma_hepatitis_b.webp",
+   "depth": "depth/ma_hepatitis_b.png",
+   "labelEn": "Hepatitis B",
+   "labelHi": "हेपेटाइटिस बी",
+   "keys": [
+    "hepatitis b",
+    "हेपेटाइटिस बी"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hepatitis-b",
+    "canonicalKey": "hepatitis-b"
+   },
+   "sha256": "ab208f432bbeff3e35389e57df933cb19bcea8c6890e7d54391ce33b27d2d04e"
+  },
+  {
+   "id": "ma_gonorrhea",
+   "kind": "image",
+   "file": "images/ma_gonorrhea.webp",
+   "depth": "depth/ma_gonorrhea.png",
+   "labelEn": "Gonorrhea",
+   "labelHi": "गोनोरिया",
+   "keys": [
+    "gonorrhea",
+    "गोनोरिया",
+    "सूजाक"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "gonorrhea",
+    "canonicalKey": "gonorrhea"
+   },
+   "sha256": "baa5441439b62d89264809faa0275ec3ed52688a399538c951ed68b71ba14bb7"
+  },
+  {
+   "id": "ma_diabetes_mellitus",
+   "kind": "image",
+   "file": "images/ma_diabetes_mellitus.webp",
+   "depth": "depth/ma_diabetes_mellitus.png",
+   "labelEn": "Diabetes Mellitus",
+   "labelHi": "मधुमेह",
+   "keys": [
+    "diabetes mellitus",
+    "मधुमेह"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "diabetes-mellitus",
+    "canonicalKey": "diabetes-mellitus"
+   },
+   "sha256": "99a1508848450de372b4db3442b053bb7cb6f465aabe61f3d44c2f84392bbecf"
+  },
+  {
+   "id": "ma_pancreatitis",
+   "kind": "image",
+   "file": "images/ma_pancreatitis.webp",
+   "depth": "depth/ma_pancreatitis.png",
+   "labelEn": "Pancreatitis",
+   "labelHi": "",
+   "keys": [
+    "pancreatitis"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "pancreatitis",
+    "canonicalKey": "pancreatitis"
+   },
+   "sha256": "89235cc55ecdc374feece8116add45bcd3ae8a3d7d32cdcd0f3165c1d67e01be"
+  },
+  {
+   "id": "ma_shilajit",
+   "kind": "image",
+   "file": "images/ma_shilajit.webp",
+   "depth": "depth/ma_shilajit.png",
+   "labelEn": "Shilajit",
+   "labelHi": "शिलाजीत",
+   "keys": [
+    "shilajit",
+    "शिलाजीत"
+   ],
+   "category": "Ayurvedic Herb",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "shilajit",
+    "canonicalKey": "shilajit"
+   },
+   "sha256": "9e78f257affbb4241026cebfa9a1ba616fe5665f5aa8812181f49bb582b3bb3c"
+  },
+  {
+   "id": "ma_neem",
+   "kind": "image",
+   "file": "images/ma_neem.webp",
+   "depth": "depth/ma_neem.png",
+   "labelEn": "Neem",
+   "labelHi": "नीम",
+   "keys": [
+    "neem",
+    "नीम"
+   ],
+   "category": "Ayurvedic Herb",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "neem",
+    "canonicalKey": "neem"
+   },
+   "sha256": "e0c882a4d244445a302ab6d9ba0daa85ab93adce3c13469c0636116852ea897f"
+  },
+  {
+   "id": "ma_constipation",
+   "kind": "image",
+   "file": "images/ma_constipation.webp",
+   "depth": "depth/ma_constipation.png",
+   "labelEn": "Constipation",
+   "labelHi": "कब्ज",
+   "keys": [
+    "constipation",
+    "कब्ज"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "constipation",
+    "canonicalKey": "constipation"
+   },
+   "sha256": "f3538ef63b72ddd60fe58ce8ae7aafa5d52d793706c785c4169ba0046c69bbac"
+  },
+  {
+   "id": "ma_diabetes",
+   "kind": "image",
+   "file": "images/ma_diabetes.webp",
+   "depth": "depth/ma_diabetes.png",
+   "labelEn": "Diabetes",
+   "labelHi": "डायबिटीज",
+   "keys": [
+    "diabetes",
+    "डायबिटीज",
+    "मधुमेह",
+    "शुगर"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "diabetes",
+    "canonicalKey": "diabetes"
+   },
+   "sha256": "ca891b7486cd07f1755c5e92a15e71350aec2832bd7f5ae5d1c0062de2448816"
+  },
+  {
+   "id": "ma_anxiety",
+   "kind": "image",
+   "file": "images/ma_anxiety.webp",
+   "depth": "depth/ma_anxiety.png",
+   "labelEn": "Anxiety",
+   "labelHi": "चिंता",
+   "keys": [
+    "anxiety",
+    "चिंता",
+    "घबराहट"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "anxiety",
+    "canonicalKey": "anxiety"
+   },
+   "sha256": "923b27d0ebecf801d8a67d849def20dd63b050e3d48060fd430850b2cb07d9c8"
+  },
+  {
+   "id": "ma_cirrhosis",
+   "kind": "image",
+   "file": "images/ma_cirrhosis.webp",
+   "depth": "depth/ma_cirrhosis.png",
+   "labelEn": "Cirrhosis",
+   "labelHi": "सिरोसिस",
+   "keys": [
+    "cirrhosis",
+    "सिरोसिस"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "cirrhosis",
+    "canonicalKey": "cirrhosis"
+   },
+   "sha256": "1925c4812c870b6df879b3932bf6e64c0be3578ee5fb4f921c83895e54e158b9"
+  },
+  {
+   "id": "ma_fungal_infection",
+   "kind": "image",
+   "file": "images/ma_fungal_infection.webp",
+   "depth": "depth/ma_fungal_infection.png",
+   "labelEn": "Fungal Infection",
+   "labelHi": "फंगल इन्फेक्शन",
+   "keys": [
+    "fungal infection",
+    "फंगल इन्फेक्शन",
+    "दाद"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "fungal-infection",
+    "canonicalKey": "fungal-infection"
+   },
+   "sha256": "fdb93d030c428cf4726b72cd4d4ff8426dd1b5b72ad84e6a6146b84a8d36d376"
+  },
+  {
+   "id": "ma_fatty_liver_detailed",
+   "kind": "image",
+   "file": "images/ma_fatty_liver_detailed.webp",
+   "depth": "depth/ma_fatty_liver_detailed.png",
+   "labelEn": "Fatty Liver",
+   "labelHi": "फैटी लिवर",
+   "keys": [
+    "fatty liver",
+    "fatty liver detailed",
+    "fatty liver — detailed visual",
+    "फैटी लिवर"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "fatty-liver-detailed",
+    "canonicalKey": "fatty-liver-detailed"
+   },
+   "sha256": "c71672f524b8d987af7c964ad954995f0e89d54116338f59fa56c3f7e2910601"
+  },
+  {
+   "id": "ma_rheumatoid_arthritis",
+   "kind": "image",
+   "file": "images/ma_rheumatoid_arthritis.webp",
+   "depth": "depth/ma_rheumatoid_arthritis.png",
+   "labelEn": "Rheumatoid Arthritis",
+   "labelHi": "रूमेटाइड गठिया",
+   "keys": [
+    "rheumatoid arthritis",
+    "रूमेटाइड गठिया"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "rheumatoid-arthritis",
+    "canonicalKey": "rheumatoid-arthritis"
+   },
+   "sha256": "e0e5620f25b8569d0f641c7971312a868f38becc698789675cb8a77111391390"
+  },
+  {
+   "id": "ma_male_infertility",
+   "kind": "image",
+   "file": "images/ma_male_infertility.webp",
+   "depth": "depth/ma_male_infertility.png",
+   "labelEn": "Male Infertility",
+   "labelHi": "",
+   "keys": [
+    "male infertility"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "male-infertility",
+    "canonicalKey": "male-infertility"
+   },
+   "sha256": "4f2d449d6c9df3bbe70a87fa89c3c2de11026c50e967f9af14c3a97ae6f454dc"
+  },
+  {
+   "id": "ma_appointment",
+   "kind": "image",
+   "file": "images/ma_appointment.webp",
+   "depth": "depth/ma_appointment.png",
+   "labelEn": "Appointment",
+   "labelHi": "",
+   "keys": [
+    "appointment",
+    "service visual"
+   ],
+   "category": "Consultation",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "appointment",
+    "canonicalKey": "appointment"
+   },
+   "sha256": "7867646d30691b6e577560d92ae861a9c0c421b7456dfcc6d339cd8f63f3cf67"
+  },
+  {
+   "id": "ma_female_urinary_health",
+   "kind": "image",
+   "file": "images/ma_female_urinary_health.webp",
+   "depth": "depth/ma_female_urinary_health.png",
+   "labelEn": "Female Urinary Health",
+   "labelHi": "",
+   "keys": [
+    "female urinary health"
+   ],
+   "category": "Health Category",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "female-urinary-health",
+    "canonicalKey": "female-urinary-health"
+   },
+   "sha256": "59d2255929175bfe4dadadc69e2015f9218209b2a09dbcdab319997f4755e45d"
+  },
+  {
+   "id": "ma_medical_report",
+   "kind": "image",
+   "file": "images/ma_medical_report.webp",
+   "depth": "depth/ma_medical_report.png",
+   "labelEn": "Medical Report",
+   "labelHi": "",
+   "keys": [
+    "medical report"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "medical-report",
+    "canonicalKey": "medical-report"
+   },
+   "sha256": "e20a11e1ead34c4c8600fd585ff70351f0b7af36de888987e7595c4ff9e2bd24"
+  },
+  {
+   "id": "ma_psoriatic_arthritis",
+   "kind": "image",
+   "file": "images/ma_psoriatic_arthritis.webp",
+   "depth": "depth/ma_psoriatic_arthritis.png",
+   "labelEn": "Psoriatic Arthritis",
+   "labelHi": "",
+   "keys": [
+    "psoriatic arthritis"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "psoriatic-arthritis",
+    "canonicalKey": "psoriatic-arthritis"
+   },
+   "sha256": "448978febdf64591e4c3ad98afb1671b26ab3a120be2dd0126029e6ccd3afd59"
+  },
+  {
+   "id": "ma_turmeric",
+   "kind": "image",
+   "file": "images/ma_turmeric.webp",
+   "depth": "depth/ma_turmeric.png",
+   "labelEn": "Turmeric",
+   "labelHi": "हल्दी",
+   "keys": [
+    "turmeric",
+    "हल्दी"
+   ],
+   "category": "Ayurvedic Herb",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "turmeric",
+    "canonicalKey": "turmeric"
+   },
+   "sha256": "f3c268e2832cfc283cb25b794c3714576edf876312ecad2e8c663c43936eef10"
+  },
+  {
+   "id": "ma_gout_foot",
+   "kind": "image",
+   "file": "images/ma_gout_foot.webp",
+   "depth": "depth/ma_gout_foot.png",
+   "labelEn": "Gout",
+   "labelHi": "",
+   "keys": [
+    "gout",
+    "gout foot",
+    "gout — foot visual"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "gout-foot",
+    "canonicalKey": "gout-foot"
+   },
+   "sha256": "5427e5ab8aed9633fec09a71145d4271aa9f338d790df6d107da1dfcfb0880ba"
+  },
+  {
+   "id": "ma_carpal_tunnel",
+   "kind": "image",
+   "file": "images/ma_carpal_tunnel.webp",
+   "depth": "depth/ma_carpal_tunnel.png",
+   "labelEn": "Carpal Tunnel Syndrome",
+   "labelHi": "",
+   "keys": [
+    "carpal tunnel syndrome",
+    "carpal tunnel"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "carpal-tunnel",
+    "canonicalKey": "carpal-tunnel"
+   },
+   "sha256": "8c826e35b6ad35e72831f844799b558611a4faf40c190861f812b55ce98bd859"
+  },
+  {
+   "id": "ma_hyperthyroidism",
+   "kind": "image",
+   "file": "images/ma_hyperthyroidism.webp",
+   "depth": "depth/ma_hyperthyroidism.png",
+   "labelEn": "Hyperthyroidism",
+   "labelHi": "हाइपरथायराइड",
+   "keys": [
+    "hyperthyroidism",
+    "हाइपरथायराइड"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hyperthyroidism",
+    "canonicalKey": "hyperthyroidism"
+   },
+   "sha256": "a22e7b588cc5cac66dfa4df7267b84e32e625dd3b7e032726fa6ad94c3db4e05"
+  },
+  {
+   "id": "ma_obesity",
+   "kind": "image",
+   "file": "images/ma_obesity.webp",
+   "depth": "depth/ma_obesity.png",
+   "labelEn": "Obesity",
+   "labelHi": "मोटापा",
+   "keys": [
+    "obesity",
+    "मोटापा"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "obesity",
+    "canonicalKey": "obesity"
+   },
+   "sha256": "199121ea16c7069f5a9e59a434513489503ebe6cbb357490fc29f09df6884ab4"
+  },
+  {
+   "id": "ma_hepatitis_c",
+   "kind": "image",
+   "file": "images/ma_hepatitis_c.webp",
+   "depth": "depth/ma_hepatitis_c.png",
+   "labelEn": "Hepatitis C",
+   "labelHi": "हेपेटाइटिस सी",
+   "keys": [
+    "hepatitis c",
+    "हेपेटाइटिस सी"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hepatitis-c",
+    "canonicalKey": "hepatitis-c"
+   },
+   "sha256": "45e69e8df684620aec726887fd8cfe2a9427a4c2b48bf21f396fea4057e10197"
+  },
+  {
+   "id": "ma_asthma_detailed",
+   "kind": "image",
+   "file": "images/ma_asthma_detailed.webp",
+   "depth": "depth/ma_asthma_detailed.png",
+   "labelEn": "Asthma",
+   "labelHi": "दमा",
+   "keys": [
+    "asthma",
+    "asthma detailed",
+    "asthma — detailed visual",
+    "दमा"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "asthma-detailed",
+    "canonicalKey": "asthma-detailed"
+   },
+   "sha256": "52fb090e88203e0350eef94573ac9ad432f5ed886d8f24341003ef2ad9126973"
+  },
+  {
+   "id": "ma_male_health",
+   "kind": "image",
+   "file": "images/ma_male_health.webp",
+   "depth": "depth/ma_male_health.png",
+   "labelEn": "Male Health",
+   "labelHi": "",
+   "keys": [
+    "male health"
+   ],
+   "category": "Health Category",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "male-health",
+    "canonicalKey": "male-health"
+   },
+   "sha256": "a294e979844204214ae20cbe80e6edd0b87379bf7c216efe2821cf59fb242f35"
+  },
+  {
+   "id": "ma_pneumonia",
+   "kind": "image",
+   "file": "images/ma_pneumonia.webp",
+   "depth": "depth/ma_pneumonia.png",
+   "labelEn": "Pneumonia",
+   "labelHi": "निमोनिया",
+   "keys": [
+    "pneumonia",
+    "निमोनिया"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "pneumonia",
+    "canonicalKey": "pneumonia"
+   },
+   "sha256": "4a6f5d321fc7e4bd7a30e4c1401cf4fc23e6781d530d763f9d89b02cf55d16a5"
+  },
+  {
+   "id": "ma_ankylosing_spondylitis",
+   "kind": "image",
+   "file": "images/ma_ankylosing_spondylitis.webp",
+   "depth": "depth/ma_ankylosing_spondylitis.png",
+   "labelEn": "Ankylosing Spondylitis",
+   "labelHi": "",
+   "keys": [
+    "ankylosing spondylitis"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "ankylosing-spondylitis",
+    "canonicalKey": "ankylosing-spondylitis"
+   },
+   "sha256": "28b6b92a82614ea44b304cae1343d5a500dde45d5cd0c473577f19a439938e34"
+  },
+  {
+   "id": "ma_lab_test",
+   "kind": "image",
+   "file": "images/ma_lab_test.webp",
+   "depth": "depth/ma_lab_test.png",
+   "labelEn": "Lab Test",
+   "labelHi": "जांच",
+   "keys": [
+    "lab test",
+    "जांच",
+    "टेस्ट"
+   ],
+   "category": "Laboratory",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "lab-test",
+    "canonicalKey": "lab-test"
+   },
+   "sha256": "fe253ae754fd8451c91dcc330b88eaba59509fa2fc6dd0ac1b5150c206c440d4"
+  },
+  {
+   "id": "ma_hiv_aids",
+   "kind": "image",
+   "file": "images/ma_hiv_aids.webp",
+   "depth": "depth/ma_hiv_aids.png",
+   "labelEn": "HIV / AIDS",
+   "labelHi": "एचआईवी",
+   "keys": [
+    "hiv",
+    "aids",
+    "hiv aids",
+    "hiv / aids",
+    "एचआईवी",
+    "एड्स"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hiv-aids",
+    "canonicalKey": "hiv-aids"
+   },
+   "sha256": "7a47a5c4d2783ed3e0422d8be33ca90eb6d24cc475dca279e637b9c47ee222d5"
+  },
+  {
+   "id": "ma_vertigo",
+   "kind": "image",
+   "file": "images/ma_vertigo.webp",
+   "depth": "depth/ma_vertigo.png",
+   "labelEn": "Vertigo",
+   "labelHi": "",
+   "keys": [
+    "vertigo"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "vertigo",
+    "canonicalKey": "vertigo"
+   },
+   "sha256": "82bb184ff15f285928cc73977d70a6351b5c7edb432fb20d3e68072d1e26f8b3"
+  },
+  {
+   "id": "ma_endometriosis",
+   "kind": "image",
+   "file": "images/ma_endometriosis.webp",
+   "depth": "depth/ma_endometriosis.png",
+   "labelEn": "Endometriosis",
+   "labelHi": "",
+   "keys": [
+    "endometriosis"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "endometriosis",
+    "canonicalKey": "endometriosis"
+   },
+   "sha256": "5a5531115c10d69445eae26fee0b99c9917ad5770e5bc3ff7e6a8e5c83691aee"
+  },
+  {
+   "id": "ma_genital_warts",
+   "kind": "image",
+   "file": "images/ma_genital_warts.webp",
+   "depth": "depth/ma_genital_warts.png",
+   "labelEn": "Genital Warts",
+   "labelHi": "जननांग मस्से",
+   "keys": [
+    "genital warts",
+    "जननांग मस्से"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "genital-warts",
+    "canonicalKey": "genital-warts"
+   },
+   "sha256": "a3d6f8fed2b54463db15c2ea16225503c608743db1acd87ee09773acce6963d3"
+  },
+  {
+   "id": "ma_ashwagandha",
+   "kind": "image",
+   "file": "images/ma_ashwagandha.webp",
+   "depth": "depth/ma_ashwagandha.png",
+   "labelEn": "Ashwagandha",
+   "labelHi": "अश्वगंधा",
+   "keys": [
+    "ashwagandha",
+    "अश्वगंधा"
+   ],
+   "category": "Ayurvedic Herb",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "ashwagandha",
+    "canonicalKey": "ashwagandha"
+   },
+   "sha256": "be8db92a80ca9197e12ddefb1882fa88f2ccef195f6e7648d07eb952c55fe8bc"
+  },
+  {
+   "id": "ma_hypertension",
+   "kind": "image",
+   "file": "images/ma_hypertension.webp",
+   "depth": "depth/ma_hypertension.png",
+   "labelEn": "Hypertension",
+   "labelHi": "हाइपरटेंशन",
+   "keys": [
+    "hypertension",
+    "हाइपरटेंशन",
+    "रक्तचाप"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hypertension",
+    "canonicalKey": "hypertension"
+   },
+   "sha256": "cf70167b733df0619423058abb36243bc25270eb72fe361daa7fc8520a4bf5f3"
+  },
+  {
+   "id": "ma_rheumatoid_arthritis_xray",
+   "kind": "image",
+   "file": "images/ma_rheumatoid_arthritis_xray.webp",
+   "depth": "depth/ma_rheumatoid_arthritis_xray.png",
+   "labelEn": "Rheumatoid Arthritis",
+   "labelHi": "",
+   "keys": [
+    "rheumatoid arthritis",
+    "rheumatoid arthritis xray"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "rheumatoid-arthritis-xray",
+    "canonicalKey": "rheumatoid-arthritis-xray"
+   },
+   "sha256": "11c0e9748d626883b31d98ca59e00d607d3f38c9b7a9022b1179009782c4983f"
+  },
+  {
+   "id": "ma_osteoarthritis_hip",
+   "kind": "image",
+   "file": "images/ma_osteoarthritis_hip.webp",
+   "depth": "depth/ma_osteoarthritis_hip.png",
+   "labelEn": "Osteoarthritis",
+   "labelHi": "",
+   "keys": [
+    "osteoarthritis",
+    "osteoarthritis hip",
+    "osteoarthritis — hip visual"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "osteoarthritis-hip",
+    "canonicalKey": "osteoarthritis-hip"
+   },
+   "sha256": "82000121699bf828364bcbf101d33ff66dc9d4b28f54b5934cfb37d8f9c79bb4"
+  },
+  {
+   "id": "ma_migraine",
+   "kind": "image",
+   "file": "images/ma_migraine.webp",
+   "depth": "depth/ma_migraine.png",
+   "labelEn": "Migraine",
+   "labelHi": "माइग्रेन",
+   "keys": [
+    "migraine",
+    "माइग्रेन",
+    "सिरदर्द"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "migraine",
+    "canonicalKey": "migraine"
+   },
+   "sha256": "3a7d2678bdc01034ff1067555c61650c4f33225f3ad92464b7799cd2817d5108"
+  },
+  {
+   "id": "ma_diabetes_care",
+   "kind": "image",
+   "file": "images/ma_diabetes_care.webp",
+   "depth": "depth/ma_diabetes_care.png",
+   "labelEn": "Diabetes Care",
+   "labelHi": "शुगर की देखभाल",
+   "keys": [
+    "diabetes care",
+    "शुगर की देखभाल"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "diabetes-care",
+    "canonicalKey": "diabetes-care"
+   },
+   "sha256": "33aa658bef8998fbc3fcb13898be79507ba29de122651b2b7885030d92a1930b"
+  },
+  {
+   "id": "ma_thyroid_disorder",
+   "kind": "image",
+   "file": "images/ma_thyroid_disorder.webp",
+   "depth": "depth/ma_thyroid_disorder.png",
+   "labelEn": "Thyroid Disorder",
+   "labelHi": "थायराइड",
+   "keys": [
+    "thyroid disorder",
+    "थायराइड"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "thyroid-disorder",
+    "canonicalKey": "thyroid-disorder"
+   },
+   "sha256": "11afe9ff10df260e5405084948dac35f53ea6d3ba390d57ab71fe1ed99f6eda4"
+  },
+  {
+   "id": "ma_weight_loss",
+   "kind": "image",
+   "file": "images/ma_weight_loss.webp",
+   "depth": "depth/ma_weight_loss.png",
+   "labelEn": "Weight Loss",
+   "labelHi": "वजन घटाना",
+   "keys": [
+    "weight loss",
+    "वजन घटाना"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "weight-loss",
+    "canonicalKey": "weight-loss"
+   },
+   "sha256": "659703e531d666144223456958164d18bcc8aabf6fbae13b40c4de513aed9102"
+  },
+  {
+   "id": "ma_joint_pain",
+   "kind": "image",
+   "file": "images/ma_joint_pain.webp",
+   "depth": "depth/ma_joint_pain.png",
+   "labelEn": "Joint Pain",
+   "labelHi": "जोड़ों का दर्द",
+   "keys": [
+    "joint pain",
+    "जोड़ों का दर्द"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "joint-pain",
+    "canonicalKey": "joint-pain"
+   },
+   "sha256": "6f74535d7f6ec7672224a2099d2ddb1d844a27cb46b33d6085ad6b9277f9c977"
+  },
+  {
+   "id": "ma_hiv_awareness_ribbon",
+   "kind": "image",
+   "file": "images/ma_hiv_awareness_ribbon.webp",
+   "depth": "depth/ma_hiv_awareness_ribbon.png",
+   "labelEn": "HIV Awareness Ribbon",
+   "labelHi": "एचआईवी जागरूकता",
+   "keys": [
+    "hiv awareness ribbon",
+    "एचआईवी जागरूकता"
+   ],
+   "category": "Trust",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hiv-awareness-ribbon",
+    "canonicalKey": "hiv-awareness-ribbon"
+   },
+   "sha256": "d7a50e99a95bcf57158534aaa02c8a4091a15707c9392c168b9b83591bea241b"
+  },
+  {
+   "id": "ma_hair_fall",
+   "kind": "image",
+   "file": "images/ma_hair_fall.webp",
+   "depth": "depth/ma_hair_fall.png",
+   "labelEn": "Hair Fall",
+   "labelHi": "बाल झड़ना",
+   "keys": [
+    "hair fall",
+    "बाल झड़ना"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hair-fall",
+    "canonicalKey": "hair-fall"
+   },
+   "sha256": "a34bd260a5db64a5a86ea0e8a723568392900fccb32ae3879a62fa33a2e1cce7"
+  },
+  {
+   "id": "ma_menstrual_health",
+   "kind": "image",
+   "file": "images/ma_menstrual_health.webp",
+   "depth": "depth/ma_menstrual_health.png",
+   "labelEn": "Menstrual Health",
+   "labelHi": "",
+   "keys": [
+    "menstrual health"
+   ],
+   "category": "Health Category",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "menstrual-health",
+    "canonicalKey": "menstrual-health"
+   },
+   "sha256": "fea1cf6a80e04eaf213baaf29d243de3670963a0146da3c447c9528d379c8244"
+  },
+  {
+   "id": "ma_varicocele_hydrocele",
+   "kind": "image",
+   "file": "images/ma_varicocele_hydrocele.webp",
+   "depth": "depth/ma_varicocele_hydrocele.png",
+   "labelEn": "Varicocele and Hydrocele",
+   "labelHi": "",
+   "keys": [
+    "varicocele and hydrocele",
+    "varicocele hydrocele"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "varicocele-hydrocele",
+    "canonicalKey": "varicocele-hydrocele"
+   },
+   "sha256": "dbac22b057cdc0a2c8c4aab9eaf60df5868f2f1463927189f359de10d88c5ae4"
+  },
+  {
+   "id": "ma_tuberculosis",
+   "kind": "image",
+   "file": "images/ma_tuberculosis.webp",
+   "depth": "depth/ma_tuberculosis.png",
+   "labelEn": "Tuberculosis (TB)",
+   "labelHi": "टीबी",
+   "keys": [
+    "tuberculosis",
+    "tuberculosis (tb)",
+    "टीबी",
+    "क्षय रोग",
+    "तपेदिक"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "tuberculosis",
+    "canonicalKey": "tuberculosis"
+   },
+   "sha256": "da792cc1eb4879401e60f237d254b37dd657d9f054324f6dc53db949c7233ff6"
+  },
+  {
+   "id": "ma_hyperlipidemia",
+   "kind": "image",
+   "file": "images/ma_hyperlipidemia.webp",
+   "depth": "depth/ma_hyperlipidemia.png",
+   "labelEn": "Hyperlipidemia / High Cholesterol",
+   "labelHi": "कोलेस्ट्रॉल",
+   "keys": [
+    "hyperlipidemia",
+    "high cholesterol",
+    "कोलेस्ट्रॉल"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hyperlipidemia",
+    "canonicalKey": "hyperlipidemia"
+   },
+   "sha256": "f8b9f62f8a488f921da449c492584936b74e3915d683266f5731a1eab1bd74d9"
+  },
+  {
+   "id": "ma_acne",
+   "kind": "image",
+   "file": "images/ma_acne.webp",
+   "depth": "depth/ma_acne.png",
+   "labelEn": "Acne",
+   "labelHi": "मुहांसे",
+   "keys": [
+    "acne",
+    "मुहांसे",
+    "पिंपल"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "acne",
+    "canonicalKey": "acne"
+   },
+   "sha256": "361552144332fe6b0163b0ca266e14994530abce3f9855c1e56290cc6282faaf"
+  },
+  {
+   "id": "ma_viral_hepatitis",
+   "kind": "image",
+   "file": "images/ma_viral_hepatitis.webp",
+   "depth": "depth/ma_viral_hepatitis.png",
+   "labelEn": "Viral Hepatitis",
+   "labelHi": "हेपेटाइटिस",
+   "keys": [
+    "viral hepatitis",
+    "हेपेटाइटिस",
+    "पीलिया"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "viral-hepatitis",
+    "canonicalKey": "viral-hepatitis"
+   },
+   "sha256": "2b01c26ebe62230e535000393fa6c7a25dc7ec832f2f0f7c78dc8b2c3a80631d"
+  },
+  {
+   "id": "ma_female_infertility",
+   "kind": "image",
+   "file": "images/ma_female_infertility.webp",
+   "depth": "depth/ma_female_infertility.png",
+   "labelEn": "Female Infertility",
+   "labelHi": "",
+   "keys": [
+    "female infertility"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "female-infertility",
+    "canonicalKey": "female-infertility"
+   },
+   "sha256": "df97a5983a03ef799e744d0cd1b511ba57ef5d5dfba54a7ef3a58ac4409001ad"
+  },
+  {
+   "id": "ma_aloe_vera",
+   "kind": "image",
+   "file": "images/ma_aloe_vera.webp",
+   "depth": "depth/ma_aloe_vera.png",
+   "labelEn": "Aloe Vera",
+   "labelHi": "एलोवेरा",
+   "keys": [
+    "aloe vera",
+    "एलोवेरा"
+   ],
+   "category": "Ayurvedic Herb",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "aloe-vera",
+    "canonicalKey": "aloe-vera"
+   },
+   "sha256": "348e7d38d97478379b4ca3c4d1d63ebd13e03fdc6d87a864a7bfe79a12854d7d"
+  },
+  {
+   "id": "ma_hypothyroidism_detailed",
+   "kind": "image",
+   "file": "images/ma_hypothyroidism_detailed.webp",
+   "depth": "depth/ma_hypothyroidism_detailed.png",
+   "labelEn": "Hypothyroidism",
+   "labelHi": "",
+   "keys": [
+    "hypothyroidism",
+    "hypothyroidism detailed"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "hypothyroidism-detailed",
+    "canonicalKey": "hypothyroidism-detailed"
+   },
+   "sha256": "e4e4023ce10da53aeb8c864691bce28a5a8d693d3382b0cec6bee6a37f9356ca"
+  },
+  {
+   "id": "ma_gallstones",
+   "kind": "image",
+   "file": "images/ma_gallstones.webp",
+   "depth": "depth/ma_gallstones.png",
+   "labelEn": "Gallstones",
+   "labelHi": "",
+   "keys": [
+    "gallstones"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "gallstones",
+    "canonicalKey": "gallstones"
+   },
+   "sha256": "62a8b7d4215aa5705a766aa37c11320eac60ec99e29104b496d82fb225373f37"
+  },
+  {
+   "id": "ma_rotator_cuff_injury",
+   "kind": "image",
+   "file": "images/ma_rotator_cuff_injury.webp",
+   "depth": "depth/ma_rotator_cuff_injury.png",
+   "labelEn": "Rotator Cuff Injury",
+   "labelHi": "",
+   "keys": [
+    "rotator cuff injury"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "rotator-cuff-injury",
+    "canonicalKey": "rotator-cuff-injury"
+   },
+   "sha256": "c31fddb89fdacb2db4267441b8836e2bc5bcb9aeb0dcc9d9024c4a80886f11a5"
+  },
+  {
+   "id": "ma_skin_disease",
+   "kind": "image",
+   "file": "images/ma_skin_disease.webp",
+   "depth": "depth/ma_skin_disease.png",
+   "labelEn": "Skin Disease",
+   "labelHi": "",
+   "keys": [
+    "skin disease"
+   ],
+   "category": "Health Category",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "skin-disease",
+    "canonicalKey": "skin-disease"
+   },
+   "sha256": "2283349e8f96001b4ab2046197a2e9ed9547063d66053906d2bb3e97faf1c4dc"
+  },
+  {
+   "id": "ma_sexual_health_sti_care",
+   "kind": "image",
+   "file": "images/ma_sexual_health_sti_care.webp",
+   "depth": "depth/ma_sexual_health_sti_care.png",
+   "labelEn": "Sexual Health / STI Care",
+   "labelHi": "",
+   "keys": [
+    "sexual health",
+    "sti care",
+    "sexual health sti care",
+    "sexual health / sti care"
+   ],
+   "category": "Health Category",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "sexual-health-sti-care",
+    "canonicalKey": "sexual-health-sti-care"
+   },
+   "sha256": "737dbd8be0220b5746b99a261d1e953a25ab87552e6914b344e4db468a946886"
+  },
+  {
+   "id": "ma_bacterial_infection_visual",
+   "kind": "image",
+   "file": "images/ma_bacterial_infection_visual.webp",
+   "depth": "depth/ma_bacterial_infection_visual.png",
+   "labelEn": "Bacterial Infection Visual",
+   "labelHi": "",
+   "keys": [
+    "bacterial infection visual"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "bacterial-infection-visual",
+    "canonicalKey": "bacterial-infection-visual"
+   },
+   "sha256": "33638aa6192a65fdcca4918bdf2f4285c2c6a80dec101e41978db6b30778b446"
+  },
+  {
+   "id": "ma_urinary_tract_infection",
+   "kind": "image",
+   "file": "images/ma_urinary_tract_infection.webp",
+   "depth": "depth/ma_urinary_tract_infection.png",
+   "labelEn": "Urinary Tract Infection (UTI)",
+   "labelHi": "यूटीआई",
+   "keys": [
+    "urinary tract infection",
+    "uti",
+    "urinary tract infection (uti)",
+    "यूटीआई",
+    "पेशाब में जलन"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "urinary-tract-infection",
+    "canonicalKey": "urinary-tract-infection"
+   },
+   "sha256": "88f77b4703067bf066807867163a4fafaa4c623f23ee5c92e97e67f469f62c12"
+  },
+  {
+   "id": "ma_female_health",
+   "kind": "image",
+   "file": "images/ma_female_health.webp",
+   "depth": "depth/ma_female_health.png",
+   "labelEn": "Female Health",
+   "labelHi": "",
+   "keys": [
+    "female health"
+   ],
+   "category": "Health Category",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "female-health",
+    "canonicalKey": "female-health"
+   },
+   "sha256": "184503aabc66a9f216d51c54a6deb40df04c1d1aec811f858660e0cfcb6479fa"
+  },
+  {
+   "id": "ma_anti_aging",
+   "kind": "image",
+   "file": "images/ma_anti_aging.webp",
+   "depth": "depth/ma_anti_aging.png",
+   "labelEn": "Anti-Aging",
+   "labelHi": "",
+   "keys": [
+    "anti-aging",
+    "anti aging"
+   ],
+   "category": "Wellness",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "anti-aging",
+    "canonicalKey": "anti-aging"
+   },
+   "sha256": "ff7eb235b01310f8c6b9eb2406d48d01ae676632c96a92a10c2010df75dcb9b7"
+  },
+  {
+   "id": "ma_piles",
+   "kind": "image",
+   "file": "images/ma_piles.webp",
+   "depth": "depth/ma_piles.png",
+   "labelEn": "Piles",
+   "labelHi": "बवासीर",
+   "keys": [
+    "piles",
+    "बवासीर",
+    "पाइल्स"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "piles",
+    "canonicalKey": "piles"
+   },
+   "sha256": "a1383a1855f46244841db6d69fbf69c55a6342220433d9af253406382bf4d570"
+  },
+  {
+   "id": "ma_vitiligo",
+   "kind": "image",
+   "file": "images/ma_vitiligo.webp",
+   "depth": "depth/ma_vitiligo.png",
+   "labelEn": "Vitiligo",
+   "labelHi": "सफेद दाग",
+   "keys": [
+    "vitiligo",
+    "सफेद दाग"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "vitiligo",
+    "canonicalKey": "vitiligo"
+   },
+   "sha256": "2488f6fbdc12f524a55bc26e201aae19b0d87e4fc4d61c8ecfe867abe5be1f8e"
+  },
+  {
+   "id": "ma_cervical_spondylosis",
+   "kind": "image",
+   "file": "images/ma_cervical_spondylosis.webp",
+   "depth": "depth/ma_cervical_spondylosis.png",
+   "labelEn": "Cervical Spondylosis",
+   "labelHi": "सर्वाइकल",
+   "keys": [
+    "cervical spondylosis",
+    "सर्वाइकल"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "cervical-spondylosis",
+    "canonicalKey": "cervical-spondylosis"
+   },
+   "sha256": "c9444a31bcc5bf1f08371b6a02b1c19f818f2ecf203b8a2c81b5e69ba921a7a7"
+  },
+  {
+   "id": "ma_doctor",
+   "kind": "image",
+   "file": "images/ma_doctor.webp",
+   "depth": "depth/ma_doctor.png",
+   "labelEn": "Doctor",
+   "labelHi": "डॉक्टर",
+   "keys": [
+    "doctor visual",
+    "डॉक्टर"
+   ],
+   "category": "Doctor",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "doctor",
+    "canonicalKey": "doctor"
+   },
+   "sha256": "9818e4aeb608fa2d48b482163599cf9c092cc9b6e909b97c1d26ad56ca6a9b9f"
+  },
+  {
+   "id": "ma_urticaria",
+   "kind": "image",
+   "file": "images/ma_urticaria.webp",
+   "depth": "depth/ma_urticaria.png",
+   "labelEn": "Urticaria",
+   "labelHi": "",
+   "keys": [
+    "urticaria"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "urticaria",
+    "canonicalKey": "urticaria"
+   },
+   "sha256": "6f3f6404d9fd93da39799cf037a65370baeb0d83a56603c29e02534dc53d4dc4"
+  },
+  {
+   "id": "ma_tulsi",
+   "kind": "image",
+   "file": "images/ma_tulsi.webp",
+   "depth": "depth/ma_tulsi.png",
+   "labelEn": "Tulsi",
+   "labelHi": "तुलसी",
+   "keys": [
+    "tulsi",
+    "तुलसी"
+   ],
+   "category": "Ayurvedic Herb",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "tulsi",
+    "canonicalKey": "tulsi"
+   },
+   "sha256": "ea2191fa923c399233ada2eaf1574a132b3973e408015e37136119da1e45ab24"
+  },
+  {
+   "id": "ma_psoriasis",
+   "kind": "image",
+   "file": "images/ma_psoriasis.webp",
+   "depth": "depth/ma_psoriasis.png",
+   "labelEn": "Psoriasis",
+   "labelHi": "सोरायसिस",
+   "keys": [
+    "psoriasis",
+    "सोरायसिस"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "psoriasis",
+    "canonicalKey": "psoriasis"
+   },
+   "sha256": "8da1e165dc844af088b41bf08d06ad11e1ba022e0e894ecfcce6dc8cb926b184"
+  },
+  {
+   "id": "ma_chlamydia",
+   "kind": "image",
+   "file": "images/ma_chlamydia.webp",
+   "depth": "depth/ma_chlamydia.png",
+   "labelEn": "Chlamydia",
+   "labelHi": "क्लैमाइडिया",
+   "keys": [
+    "chlamydia",
+    "क्लैमाइडिया"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "chlamydia",
+    "canonicalKey": "chlamydia"
+   },
+   "sha256": "e5b8a9db7b2a887b88657db682396239bef8c3f96235ff877fd9a7f7f740bdca"
+  },
+  {
+   "id": "ma_dandruff",
+   "kind": "image",
+   "file": "images/ma_dandruff.webp",
+   "depth": "depth/ma_dandruff.png",
+   "labelEn": "Dandruff",
+   "labelHi": "रूसी",
+   "keys": [
+    "dandruff",
+    "रूसी"
+   ],
+   "category": "Condition",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "dandruff",
+    "canonicalKey": "dandruff"
+   },
+   "sha256": "a40582a9c693e27b9f89aa40279df2a037cda840605785d76e07d2fe74b6c166"
+  },
+  {
+   "id": "ma_report_review",
+   "kind": "image",
+   "file": "images/ma_report_review.webp",
+   "depth": "depth/ma_report_review.png",
+   "labelEn": "Doctor reviewing a medical report",
+   "labelHi": "",
+   "keys": [
+    "doctor reviewing a medical report",
+    "report review",
+    "report-review",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Laboratory",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "report-review",
+    "canonicalKey": "report-review"
+   },
+   "sha256": "b14dc2e191236657276197b5226fded8a0ed1d1b109521de5c16a77b5f95e298"
+  },
+  {
+   "id": "ma_personalized_treatment_plan",
+   "kind": "image",
+   "file": "images/ma_personalized_treatment_plan.webp",
+   "depth": "depth/ma_personalized_treatment_plan.png",
+   "labelEn": "Personalized Ayurvedic treatment plan",
+   "labelHi": "",
+   "keys": [
+    "personalized ayurvedic treatment plan",
+    "personalized treatment plan",
+    "service-visual",
+    "care-plan",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Consultation",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "personalized-treatment-plan",
+    "canonicalKey": "personalized-treatment-plan"
+   },
+   "sha256": "a3f0bd99d1e894ccb60eca9741dea4e7549fa2c41ffdbce49e44679e3d1b20f3"
+  },
+  {
+   "id": "ma_follow_up_support",
+   "kind": "image",
+   "file": "images/ma_follow_up_support.webp",
+   "depth": "depth/ma_follow_up_support.png",
+   "labelEn": "Ongoing follow-up care",
+   "labelHi": "",
+   "keys": [
+    "ongoing follow-up care",
+    "follow-up support",
+    "follow up support",
+    "service-visual",
+    "support",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Consultation",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "follow-up-support",
+    "canonicalKey": "follow-up-support"
+   },
+   "sha256": "286cd53cffcfb0d77314b56eac6541b3afb35b935951eb833a67f88136bf9ea0"
+  },
+  {
+   "id": "ma_medical_record_review",
+   "kind": "image",
+   "file": "images/ma_medical_record_review.webp",
+   "depth": "depth/ma_medical_record_review.png",
+   "labelEn": "Clinician reviewing medical records",
+   "labelHi": "",
+   "keys": [
+    "clinician reviewing medical records",
+    "medical record review",
+    "record-review",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Laboratory",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "medical-record-review",
+    "canonicalKey": "medical-record-review"
+   },
+   "sha256": "01a15d0458f78a06420100364ea5a25f4764dda3a5d4e09bb67d44f2d9ff4f1f"
+  },
+  {
+   "id": "ma_report_upload",
+   "kind": "image",
+   "file": "images/ma_report_upload.webp",
+   "depth": "depth/ma_report_upload.png",
+   "labelEn": "Secure medical report upload",
+   "labelHi": "",
+   "keys": [
+    "secure medical report upload",
+    "report upload",
+    "service-visual",
+    "report-upload",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Laboratory",
+   "generic": false,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "report-upload",
+    "canonicalKey": "report-upload"
+   },
+   "sha256": "ed5fcd63a14ee3c57116fcdf87ab0a346a01227a15fa4afaae676cea1213fbe4"
+  },
+  {
+   "id": "ma_symptoms_overview",
+   "kind": "image",
+   "file": "images/ma_symptoms_overview.webp",
+   "depth": "depth/ma_symptoms_overview.png",
+   "labelEn": "Overview of common symptoms",
+   "labelHi": "लक्षण",
+   "keys": [
+    "overview of common symptoms",
+    "symptoms overview",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp",
+    "लक्षण"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "symptoms-overview",
+    "canonicalKey": "symptoms-overview"
+   },
+   "sha256": "f1c32c64f31beb8d89892618c2a00ecc6988a40dfc58d082a0b4de9830c618bc"
+  },
+  {
+   "id": "ma_causes_risk_factors",
+   "kind": "image",
+   "file": "images/ma_causes_risk_factors.webp",
+   "depth": "depth/ma_causes_risk_factors.png",
+   "labelEn": "Causes and risk factors",
+   "labelHi": "",
+   "keys": [
+    "causes and risk factors",
+    "causes risk factors",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "causes-risk-factors",
+    "canonicalKey": "causes-risk-factors"
+   },
+   "sha256": "276d99ecdc803b1c89ec0f2510c8ec0315b4aff887fdcc8bf93182d676f274e0"
+  },
+  {
+   "id": "ma_diagnosis_testing",
+   "kind": "image",
+   "file": "images/ma_diagnosis_testing.webp",
+   "depth": "depth/ma_diagnosis_testing.png",
+   "labelEn": "Diagnosis and medical testing",
+   "labelHi": "निदान",
+   "keys": [
+    "diagnosis and medical testing",
+    "diagnosis and testing",
+    "diagnosis testing",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp",
+    "निदान"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "diagnosis-testing",
+    "canonicalKey": "diagnosis-testing"
+   },
+   "sha256": "557b2b4ed4c3b7065ae6696a296e07674a4362e1a12dfbe2837f93ea29c880fc"
+  },
+  {
+   "id": "ma_treatment_journey",
+   "kind": "image",
+   "file": "images/ma_treatment_journey.webp",
+   "depth": "depth/ma_treatment_journey.png",
+   "labelEn": "Patient treatment journey",
+   "labelHi": "इलाज",
+   "keys": [
+    "patient treatment journey",
+    "treatment journey",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp",
+    "इलाज"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "treatment-journey",
+    "canonicalKey": "treatment-journey"
+   },
+   "sha256": "effb09f4e7eddf65f400069fdf23cbff7b27f248973dbf2619324a012be88811"
+  },
+  {
+   "id": "ma_myths_vs_facts",
+   "kind": "image",
+   "file": "images/ma_myths_vs_facts.webp",
+   "depth": "depth/ma_myths_vs_facts.png",
+   "labelEn": "Health myths compared with facts",
+   "labelHi": "मिथक",
+   "keys": [
+    "health myths compared with facts",
+    "myths vs facts",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp",
+    "मिथक",
+    "तथ्य"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "myths-vs-facts",
+    "canonicalKey": "myths-vs-facts"
+   },
+   "sha256": "a9287e18fb985c52c7d4b093eac65daaa2d646041e0ead5c450fa01970985fde"
+  },
+  {
+   "id": "ma_prevention",
+   "kind": "image",
+   "file": "images/ma_prevention.webp",
+   "depth": "depth/ma_prevention.png",
+   "labelEn": "Preventive health and wellness",
+   "labelHi": "बचाव",
+   "keys": [
+    "preventive health and wellness",
+    "prevention",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp",
+    "बचाव",
+    "रोकथाम"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "prevention",
+    "canonicalKey": "prevention"
+   },
+   "sha256": "1209d86c402226230124ef0f7da89e35cd4a3875fa10ff99bc0c97ead8daf49e"
+  },
+  {
+   "id": "ma_warning_signs",
+   "kind": "image",
+   "file": "images/ma_warning_signs.webp",
+   "depth": "depth/ma_warning_signs.png",
+   "labelEn": "Urgent medical warning signs",
+   "labelHi": "खतरे के संकेत",
+   "keys": [
+    "urgent medical warning signs",
+    "warning signs",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp",
+    "खतरे के संकेत"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "warning-signs",
+    "canonicalKey": "warning-signs"
+   },
+   "sha256": "df2fd3d83451053efe789f02aeaa0b7d543737ad7aa8a1fb721ffa9160f3a75a"
+  },
+  {
+   "id": "ma_when_to_see_doctor",
+   "kind": "image",
+   "file": "images/ma_when_to_see_doctor.webp",
+   "depth": "depth/ma_when_to_see_doctor.png",
+   "labelEn": "Guidance to seek medical care",
+   "labelHi": "डॉक्टर कब दिखाएँ",
+   "keys": [
+    "guidance to seek medical care",
+    "when to see a doctor",
+    "when to see doctor",
+    "doctor-visual",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp",
+    "डॉक्टर कब दिखाएँ"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "when-to-see-doctor",
+    "canonicalKey": "when-to-see-doctor"
+   },
+   "sha256": "5886ede3fca17e6499154586ac29cab996721321c9d5e58cae253badf56ef757"
+  },
+  {
+   "id": "ma_recovery_follow_up",
+   "kind": "image",
+   "file": "images/ma_recovery_follow_up.webp",
+   "depth": "depth/ma_recovery_follow_up.png",
+   "labelEn": "Recovery and ongoing follow-up",
+   "labelHi": "",
+   "keys": [
+    "recovery and ongoing follow-up",
+    "recovery and follow-up",
+    "recovery follow up",
+    "medical-education",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Medical UI",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "recovery-follow-up",
+    "canonicalKey": "recovery-follow-up"
+   },
+   "sha256": "6ffdb41383aa61dec1621aa2727dbbc35c4cb4f4a01d59124f71da491e432953"
+  },
+  {
+   "id": "ma_confidential_consultation",
+   "kind": "image",
+   "file": "images/ma_confidential_consultation.webp",
+   "depth": "depth/ma_confidential_consultation.png",
+   "labelEn": "Private doctor-patient consultation",
+   "labelHi": "",
+   "keys": [
+    "private doctor-patient consultation",
+    "confidential consultation",
+    "doctor-visual",
+    "privacy",
+    "premium-3d",
+    "transparent-webp"
+   ],
+   "category": "Consultation",
+   "generic": true,
+   "source": {
+    "store": "manmukh.com",
+    "metaobject": "ma_svg_asset",
+    "handle": "confidential-consultation",
+    "canonicalKey": "confidential-consultation"
+   },
+   "sha256": "3ad15bb4514864b00364a0c994a95d8d83979c6bf3e535b488381a36180a6a24"
+  }
+ ]
+}

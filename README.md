@@ -8,3 +8,10 @@ Release files the Fold AI Video Studio app downloads from *Settings > Visual ass
 
 The app checks every download against the SHA-256 built into it and refuses any other file.
 Artwork © Manmukh Ayurveda; not licensed for reuse outside the app.
+
+## Layout
+
+- `catalog/v1/catalog.json` + `.sig`: the signed list of pack versions the app may install.
+- `schemas/`: catalog and manifest formats. `manifests/`: the manifest of each released pack.
+- `tools/verify_pack.py`: the checks a pack must pass before it is released. `provenance/`, `docs/MAINTENANCE.md`.
+- Pack archives are GitHub Release files, never committed to git.
