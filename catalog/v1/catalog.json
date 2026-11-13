@@ -1,6 +1,6 @@
 {
   "schema": "fold-pack-catalog/1",
-  "published": "2026-11-13T12:00:00Z",
+  "published": "2026-11-13T11:00:00Z",
   "packs": [
     {
       "id": "ma_visuals",
@@ -43,6 +43,27 @@
       "license": "Apache-2.0",
       "medicalReview": "NOT_APPLICABLE",
       "provenance": "Kokoro-82M v1.0 (hexgrad, Apache-2.0), int8 ONNX export from k2-fsa/sherpa-onnx kokoro-int8-multi-lang-v1_0; Hindi voices hf_alpha, hf_beta, hm_omega, hm_psi"
+    },
+    {
+      "id": "clinical_3d",
+      "version": "1",
+      "title": "Anatomy 3D models (BodyParts3D)",
+      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/clinical-3d-v1/clinical_3d_v1.zip",
+      "bytes": 4302007,
+      "sha256": "ca2738cc92f3a55c7eda05f4cedf756f4d903e331c60da522e7c9435b1043671",
+      "fileCount": 8,
+      "expectedUncompressedBytes": 8384581,
+      "capabilities": [
+        "PBR_GLTF"
+      ],
+      "minRenderContract": 2,
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "license": "CC-BY-4.0",
+      "medicalReview": "NOT_REVIEWED",
+      "provenance": "BodyParts3D 4.0 (DBCLS, CC BY 4.0), IS-A tree OBJ 99% reduction; merged per model, Y-up metres, plain PBR colours"
     }
   ]
 }
