@@ -8,8 +8,8 @@ missing or mismatched files, images that do not decode (needs Pillow), and a cat
 """
 import argparse, hashlib, io, json, sys, zipfile
 
-ALLOWED = {"webp", "png", "jpg", "jpeg", "json", "gltf", "glb", "txt", "md"}
-MAX_ENTRIES, MAX_ENTRY, MAX_TOTAL = 4000, 40 << 20, 600 << 20
+ALLOWED = {"webp", "png", "jpg", "jpeg", "json", "gltf", "glb", "txt", "md", "onnx", "bin"}
+MAX_ENTRIES, MAX_ENTRY, MAX_TOTAL = 4000, 160 << 20, 600 << 20  # 160 MB: a voice model file
 
 
 def main():

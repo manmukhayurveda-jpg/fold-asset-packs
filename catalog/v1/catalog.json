@@ -1,6 +1,6 @@
 {
   "schema": "fold-pack-catalog/1",
-  "published": "2026-11-12T13:00:00Z",
+  "published": "2026-11-13T12:00:00Z",
   "packs": [
     {
       "id": "ma_visuals",
@@ -11,12 +11,38 @@
       "sha256": "a46ccf7b10c72448fa6be9e896107a1c7174e29b480c449aba954eb41bb9490e",
       "fileCount": 271,
       "expectedUncompressedBytes": 16543547,
-      "capabilities": ["RELIEF_IMAGE", "T2V_SCENE_ASSET"],
+      "capabilities": [
+        "RELIEF_IMAGE",
+        "T2V_SCENE_ASSET"
+      ],
       "minRenderContract": 1,
-      "languages": ["en", "hi"],
+      "languages": [
+        "en",
+        "hi"
+      ],
       "license": "PROPRIETARY_MANMUKH",
       "medicalReview": "NOT_REVIEWED",
       "provenance": "shopify:ma_svg_asset (135 of 180 entries)"
+    },
+    {
+      "id": "hindi_voice",
+      "version": "1",
+      "title": "Hindi neural voice (offline, Kokoro)",
+      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/hindi-voice-v1/hindi_voice_v1.zip",
+      "bytes": 91135867,
+      "sha256": "c1333319ae180b8a1ef43b51dc972ecc1f5d60db314ab1b8646ce40da61dd213",
+      "fileCount": 6,
+      "expectedUncompressedBytes": 116305239,
+      "capabilities": [
+        "NEURAL_TTS_HI"
+      ],
+      "minRenderContract": 2,
+      "languages": [
+        "hi"
+      ],
+      "license": "Apache-2.0",
+      "medicalReview": "NOT_APPLICABLE",
+      "provenance": "Kokoro-82M v1.0 (hexgrad, Apache-2.0), int8 ONNX export from k2-fsa/sherpa-onnx kokoro-int8-multi-lang-v1_0; Hindi voices hf_alpha, hf_beta, hm_omega, hm_psi"
     }
   ]
 }
