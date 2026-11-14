@@ -1,16 +1,16 @@
 {
   "schema": "fold-pack-catalog/1",
-  "published": "2026-11-13T11:00:00Z",
+  "published": "2026-11-14T08:00:00Z",
   "packs": [
     {
       "id": "ma_visuals",
-      "version": "1",
+      "version": "2",
       "title": "Medical visuals (Manmukh Ayurveda library)",
-      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/ma-visuals-v1/ma_visuals_v1.zip",
-      "bytes": 16578803,
-      "sha256": "a46ccf7b10c72448fa6be9e896107a1c7174e29b480c449aba954eb41bb9490e",
+      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/ma-visuals-v2/ma_visuals_v2.zip",
+      "bytes": 16516036,
+      "sha256": "6690b34a73a2013f26993f02141f76b7da5d8905ebad137756db3767f38acb83",
       "fileCount": 271,
-      "expectedUncompressedBytes": 16543547,
+      "expectedUncompressedBytes": 16571353,
       "capabilities": [
         "RELIEF_IMAGE",
         "T2V_SCENE_ASSET"
@@ -21,8 +21,12 @@
         "hi"
       ],
       "license": "PROPRIETARY_MANMUKH",
-      "medicalReview": "NOT_REVIEWED",
-      "provenance": "shopify:ma_svg_asset (135 of 180 entries)"
+      "medicalReview": "REVIEWED",
+      "provenance": "shopify:ma_svg_asset (135 of 180 entries)",
+      "reviewer": "Dr. Manish Sharma, for the Manmukh Ayurveda doctors' team",
+      "reviewedDate": "2026-11-13",
+      "reviewBasis": "owner attestation recorded 13 Nov 2026",
+      "supersedes": "1"
     },
     {
       "id": "hindi_voice",
@@ -46,13 +50,13 @@
     },
     {
       "id": "clinical_3d",
-      "version": "1",
+      "version": "2",
       "title": "Anatomy 3D models (BodyParts3D)",
-      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/clinical-3d-v1/clinical_3d_v1.zip",
-      "bytes": 4302007,
-      "sha256": "ca2738cc92f3a55c7eda05f4cedf756f4d903e331c60da522e7c9435b1043671",
+      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/clinical-3d-v2/clinical_3d_v2.zip",
+      "bytes": 4302139,
+      "sha256": "ac4c866455184d352de90cfb6c0b194512d9026a9d82eddf959965038f2af886",
       "fileCount": 8,
-      "expectedUncompressedBytes": 8384581,
+      "expectedUncompressedBytes": 8385528,
       "capabilities": [
         "PBR_GLTF"
       ],
@@ -62,8 +66,77 @@
         "hi"
       ],
       "license": "CC-BY-4.0",
-      "medicalReview": "NOT_REVIEWED",
-      "provenance": "BodyParts3D 4.0 (DBCLS, CC BY 4.0), IS-A tree OBJ 99% reduction; merged per model, Y-up metres, plain PBR colours"
+      "medicalReview": "REVIEWED",
+      "provenance": "BodyParts3D 4.0 (DBCLS, CC BY 4.0), IS-A tree OBJ 99% reduction; merged per model, Y-up metres, plain PBR colours",
+      "reviewer": "Dr. Manish Sharma, for the Manmukh Ayurveda doctors' team",
+      "reviewedDate": "2026-11-13",
+      "reviewBasis": "owner attestation recorded 13 Nov 2026",
+      "supersedes": "1"
+    },
+    {
+      "id": "medical_semantics",
+      "version": "1",
+      "title": "Medical concept rules",
+      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/medical-semantics-v1/medical_semantics_v1.zip",
+      "capabilities": [
+        "MEDICAL_SEMANTICS"
+      ],
+      "minRenderContract": 2,
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "license": "Original work of the Fold AI Video Studio project",
+      "medicalReview": "NOT_APPLICABLE",
+      "provenance": "scripts/assets/build_data_packs.py",
+      "bytes": 1536,
+      "sha256": "0b77cbf24f9882668c2606a2d60d19ccf9e885f3ed9d7d70054d2e5bb1970c46",
+      "fileCount": 2,
+      "expectedUncompressedBytes": 3838
+    },
+    {
+      "id": "design_foundations",
+      "version": "1",
+      "title": "Scene family tuning",
+      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/design-foundations-v1/design_foundations_v1.zip",
+      "capabilities": [
+        "DESIGN_FAMILIES"
+      ],
+      "minRenderContract": 2,
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "license": "Original work of the Fold AI Video Studio project",
+      "medicalReview": "NOT_APPLICABLE",
+      "provenance": "scripts/assets/build_data_packs.py",
+      "bytes": 1137,
+      "sha256": "9a6ed20875d08d3a6f01a3ce86cc990f50fab6a1381d53871737858a4a1d4b2f",
+      "fileCount": 2,
+      "expectedUncompressedBytes": 2254
+    },
+    {
+      "id": "kinetic_motion",
+      "version": "1",
+      "title": "Animated accents (Lottie)",
+      "url": "https://github.com/manmukhayurveda-jpg/fold-asset-packs/releases/download/kinetic-motion-v1/kinetic_motion_v1.zip",
+      "capabilities": [
+        "KINETIC_LOTTIE"
+      ],
+      "minRenderContract": 2,
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "license": "Original work of the Fold AI Video Studio project",
+      "medicalReview": "NOT_APPLICABLE",
+      "provenance": "scripts/assets/build_data_packs.py",
+      "bytes": 5236,
+      "sha256": "c71996eb355460661cad0dcbe58ca561ab87b91f4f26181730bf6c3c39782e42",
+      "fileCount": 10,
+      "expectedUncompressedBytes": 18762
     }
-  ]
+  ],
+  "seq": 2,
+  "expires": "2027-05-14T00:00:00Z"
 }
